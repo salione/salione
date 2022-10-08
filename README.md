@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @salione
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me irani.salman@gmail.com
 
 <!---
